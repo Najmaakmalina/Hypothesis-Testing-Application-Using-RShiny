@@ -1,4 +1,4 @@
-## APLIKASI PENGUJIAN HIPOTESIS MENGGUNAKAN RSHINY 
+## APLIKASI PENGUJIAN HIPOTESIS MENGGUNAKAN RSHINY           [![My Skills](https://skillicons.dev/icons?i=r&theme=light)](https://skillicons.dev)
 Aplikasi ini digunakan untuk memudahkan pengguna dalam menguji hipotesis menggunakan aplikasi berbasis web Rshiny
 
 ### Ruang lingkup pengujian Hipotesis pada aplikasi R-shiny yang akan dibuat mencakup tiga hal, yakni: 
