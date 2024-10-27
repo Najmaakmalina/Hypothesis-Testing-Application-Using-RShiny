@@ -10,14 +10,14 @@ Aplikasi ini digunakan untuk memudahkan pengguna dalam menguji hipotesis menggun
 1. Navigasi Sidebar – Menu navigasi utama aplikasi.
    ![sidebar](https://github.com/user-attachments/assets/2bdcd63b-d51d-4baf-be49-7b227f9c9f96)
 2. Overview Dashboard – Tampilan ringkas data secara keseluruhan pada dashboard aplikasi.
-3. ![overview](https://github.com/user-attachments/assets/7f0c7524-0975-419b-b49c-c7fe7668c073)
-4. Uji T Test – Visualisasi pengujian T untuk membandingkan variabel.
+![overview](https://github.com/user-attachments/assets/7f0c7524-0975-419b-b49c-c7fe7668c073)
+3. Uji T Test – Visualisasi pengujian T untuk membandingkan variabel.
    ![uji T test](https://github.com/user-attachments/assets/66e7ae0d-d437-4d74-860b-05ef999dc930)
-5. Uji Varians – Ilustrasi pengujian varians pada data yang dianalisis.
+4. Uji Varians – Ilustrasi pengujian varians pada data yang dianalisis.
    ![uji varians test](https://github.com/user-attachments/assets/b2ac7603-c95d-44b4-bfa0-9b7044fe9618)
-6. Uji Proporsi - Visualisasi pengujian proporsi pada data.
+5. Uji Proporsi - Visualisasi pengujian proporsi pada data.
    ![proporsi test](https://github.com/user-attachments/assets/8925c378-8c56-4abd-80fb-4cacad25f15c)
-7. Input Data – Menampilkan tampilan input data yang akan digunakan dalam aplikasi
+6. Input Data – Menampilkan tampilan input data yang akan digunakan dalam aplikasi
    ![input data](https://github.com/user-attachments/assets/04b93b97-a5f4-46ca-b3c4-bd6fab2c1242)
 
 ## Percobaan pada aplikasi
